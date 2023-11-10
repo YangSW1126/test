@@ -10,7 +10,6 @@ div{
     position: absolute;
 }
 
-
 .name{
     top: 40px;
     left: 360px;
@@ -163,12 +162,10 @@ div{
 }
 
 .education-bottom{
-    /* Layout Properties */
     top: 1174px;
     left: 360px;
     width: 422px;
     height: 36px;
-    /* UI Properties */
     text-align: left;
     font: normal normal 300 24px/36px PingFang TC;
     letter-spacing: 0px;
@@ -177,23 +174,19 @@ div{
 }
 
 .skills{
-    /* Layout Properties */
     top: 1274px;
     left: 0px;
     width: 1920px;
     height: 460px;
-    /* UI Properties */
     background: #415165 0% 0% no-repeat padding-box;
     opacity: 1;
 }
 
 .skills-text-cn{
-    /* Layout Properties */
     top: 1298px;
     left: 882px;
     width: 64px;
     height: 48px;
-    /* UI Properties */
     text-align: left;
     font: normal normal normal 32px/48px PingFang TC;
     letter-spacing: 0px;

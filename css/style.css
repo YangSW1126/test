@@ -1,7 +1,7 @@
 .body{
     top: 0px;
     left: 0px;
-    width: 100%;
+    width: 1920px;
     height: 3006px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
     opacity: 1;
@@ -179,7 +179,7 @@ div{
     /* Layout Properties */
     top: 1274px;
     left: 0px;
-    width: 100%;
+    width: 1920px;
     height: 460px;
     /* UI Properties */
     background: #415165 0% 0% no-repeat padding-box;
@@ -396,7 +396,7 @@ div{
     /* Layout Properties */
     top: 2606px;
     left: 0px;
-    width: 100%;
+    width: 1920px;
     height: 400px;
     /* UI Properties */
     background: #415165 0% 0% no-repeat padding-box;
@@ -487,4 +487,13 @@ div{
 .line-icon{
     left: 1008px;
     position:absolute;
+}
+
+.body{
+    top: 0px;
+    left: 0px;
+    width: 90%;
+    height: 3006px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
 }

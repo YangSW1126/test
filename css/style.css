@@ -3,7 +3,7 @@
     left: 0px;
     width: 1920px;
     height: 3006px;
-    background: #FFFFFF 0% 0% no-repeat padding-box;
+    background: #c40e0e 0% 0% no-repeat padding-box;
     opacity: 1;
 }
 div{
@@ -487,13 +487,4 @@ div{
 .line-icon{
     left: 1008px;
     position:absolute;
-}
-
-.body{
-    top: 0px;
-    left: 0px;
-    width: 90%;
-    height: 3006px;
-    background: #d80505 0% 0% no-repeat padding-box;
-    opacity: 1;
 }
